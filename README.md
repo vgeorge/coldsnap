@@ -1,4 +1,4 @@
-> This is a partial recovery of documentation writen by [Dale A. Callaham](https://people.umass.edu/~dac/) about a prototype of air conditioner temperature override controller called **ColdSnap**. The project seems to be discontinued and the original webpage is offline, but some parts are acessible via Wayback Machine and mirrored here for educational purposes.
+> This is a partial recovery of documentation written by [Dale A. Callaham](https://people.umass.edu/~dac/) about a prototype of air conditioner temperature override controller called **ColdSnap**. The project seems to be discontinued and the original webpage is offline, but some parts are acessible via Wayback Machine and mirrored here for educational purposes.
 
 * [ColdSnap at Internet Archive's Wayback Machine](https://web.archive.org/web/20160211232038/http://people.umass.edu:80/~dac/projects/ColdSnap/ColdSnap.html)
 
