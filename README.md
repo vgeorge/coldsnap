@@ -119,7 +119,8 @@ When the fin temperature is 35F or above, and if RT is above 35F, apply power to
 Thermistor used: Murata NCP15XH103F03RC 10k ±1% (chip thermistor 1.0mm x 0.5mm)
 
 ```
- This example code is in the public domain.
+/*
+This example code is in the public domain.
 
  */
  const byte Debug = 1;   //since we don't have conditional compilation......
@@ -146,7 +147,7 @@ const int _10C = 538; // 50F
 const int _15C = 589; //59F
 const int _20C = 636;  //68F
 const int _25C = 680; // 77F
-const int SetPoint_default = -5C;  // 41F on ROOM sensor for this application
+const int SetPoint_default = _5C;  // 41F on ROOM sensor for this application
     
 // other constants for users to set according to their needs.
 const int Deadband = 31;     // 31 counts is approximately 5 degrees F
